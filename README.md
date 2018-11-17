@@ -1,4 +1,4 @@
-# Predicting Terrorist Attacks
+# EDA and Forecast terrorism in Indonesia using Prophet
 
 ## Project Overview
 To facilitate this objective, I used the Global Terrorism Database (GTD), which is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland.  This is a large dataset that provides an opportunity to use Python for data cleansing, exploratory data analysis, visualizations, feature engineering and machine learning.  In addition, selecting the topic of terrorism is applicable to the current state of events across the world.
